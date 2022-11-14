@@ -6,7 +6,7 @@ CREATE TABLE tb_aluno (
     id int,
     nome varchar(255),
     cidade varchar(255),
-    matricula int(20)
+    matricula varchar(20)
 );
 
 -- Adicionando valores na tabela --
